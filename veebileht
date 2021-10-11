@@ -1,0 +1,46 @@
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+
+<h1>Minu veebileht</h1>
+<h2><marquee>Riko Valk 213438</marquee></h2>
+<p>Koolis on hea olla. Saab teistega sotsialiseeruda, loengutes kuuleb väga palju huvitavat, mis panevad kaasa mõtlema. Harjutustundides ja praktikumides saab ise käed külge lüüa ja ise midagi luua ning õppida. Loodetavasti jääb pärast midagi meelde ka, mida saaks tulevikus kasutada.</p>
+<h3>Siin on korrutustabel kolmeni:
+<table style="width:50%">
+  <tr>
+    <th>   </th>
+    <th> 1 </th>
+    <th> 2 </th>
+    <th> 3 </th>
+  </tr>
+  <tr>
+    <th> 1 </th>
+    <th> 1 </th>
+    <th> 2 </th>
+    <th> 3 </th>
+  </tr>
+  <tr>
+    <th> 2 </th>
+    <th> 2 </th>
+    <th> 4 </th>
+    <th> 6 </th>
+  </tr>
+  <tr>
+    <th> 3 </th>
+    <th> 3 </th>
+    <th> 6 </th>
+    <th> 9 </th>
+  </tr>
+</table>
+</h3>
+<img src="https://lh3.googleusercontent.com/proxy/LebFrgeUvMfm82VjvkMSicw5Z-l3ojN7w8EwFyJShf8ZSE5g4EP0oY777qksHVzToqBZXHiYHmquPa-4O3UTXUH7ZZMgI-dAyINvnQGwGYEmSiQoQUf9Qsfc"
+width="550" height="400">
+<h4>Külasta ka minu kooli kodulehte:<a href="https://taltech.ee">https://taltech.ee</a></h4>
+</body>
+</html>
